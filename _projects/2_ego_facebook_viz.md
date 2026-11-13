@@ -7,7 +7,7 @@ custom_js:
   - vega.min
   - vega-lite.min
   - vega-embed.min
-  - justcharts
+  - justcharts 
 ---
 
 # Exploring the SNAP ego-Facebook Social Network
